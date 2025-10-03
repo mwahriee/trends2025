@@ -1,2 +1,2 @@
-# trends2025
+# Trends2025
 Current trending topics of 2025 (Source: X)
